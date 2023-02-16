@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kiranmsalunke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiranmsalunke" height="30" width="40" /></a>
+<a href="https://medium.com/@kiranms.unixadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiranmsalunke" height="30" width="40" /></a>
 <a href="https://twitter.com/kiransalunke007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiransalunke007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kiran-salunke-533862164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-salunke-533862164" height="30" width="40" /></a>
 <a href="https://medium.com/@kiranms.unixadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kiranms.unixadm" height="30" width="40" /></a>
