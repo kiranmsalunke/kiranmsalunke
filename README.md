@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with **Allstate India**
 
-- 📝 I regularly write articles on [https://medium.com/@kiranms.unixadm](https://medium.com/@kiranms.unixadm)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@kiranms.unixadm)
 
 - 💬 Ask me about **Kubernetes,EKS,terraform & AWS**
 
